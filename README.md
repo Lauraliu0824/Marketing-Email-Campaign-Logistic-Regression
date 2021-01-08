@@ -1,1 +1,1 @@
-# Marketing-Email-Campaign-Modeling-TEST
+# Marketing-Email-Campaign-Logistic Regression
