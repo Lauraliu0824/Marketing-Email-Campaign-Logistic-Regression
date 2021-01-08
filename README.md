@@ -33,7 +33,7 @@ I plan to use Logistic Regression to detect
 ### Data processing before running model
 1. Over-sampling
 
-In the model, the dependent variable will be link_click, which is a binary result with a very imbalance shape. According the the conversion rate 0.02, we only have 1 link click out of 5 email sent. This imbalance will cause ugly prediction(recall, precision and Fscore) from RF. We need to shuffle and re-sampling the dataset to create a balance training data.
+In the model, the dependent variable will be link_click, which is a binary result with a very imbalance shape. According the the conversion rate 0.02, we only have 1 link click out of 5 email sent. This imbalance will cause ugly prediction(recall, precision and Fscore) from the model. We need to shuffle and re-sampling the dataset to create a balance training data.
 
 2. Create Dummy variables for categorical variables
 
